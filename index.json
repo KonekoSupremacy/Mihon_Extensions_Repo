@@ -1,5 +1,22 @@
 [
   {
+    "name": "Tachiyomi: Pawchive",
+    "pkg": "eu.kanade.tachiyomi.extension.all.pawchive",
+    "apk": "tachiyomi-all.pawchive-v1.6.1.apk",
+    "lang": "all",
+    "code": 106001,
+    "version": "1.6.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Pawchive",
+        "lang": "all",
+        "id": "4284527942812494681",
+        "baseUrl": "https://pawchive.pw"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rule34.xxx",
     "pkg": "eu.kanade.tachiyomi.extension.en.rule34xxx",
     "apk": "tachiyomi-en.rule34xxx-v1.6.7.apk",
