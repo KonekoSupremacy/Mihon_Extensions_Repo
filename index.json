@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Rule34.xxx",
     "pkg": "eu.kanade.tachiyomi.extension.en.rule34xxx",
-    "apk": "tachiyomi-en.rule34xxx-v1.6.4.apk",
+    "apk": "tachiyomi-en.rule34xxx-v1.6.5.apk",
     "lang": "en",
-    "code": 106004,
-    "version": "1.6.4",
+    "code": 106005,
+    "version": "1.6.5",
     "nsfw": 1,
     "sources": [
       {
